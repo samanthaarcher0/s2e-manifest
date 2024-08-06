@@ -11,7 +11,7 @@
   <project name="decree"/>
   <project name="guest-images"/>
   <project name="qemu" revision="v3.0.0-se"/>
-  <project name="s2e"/>
+  <project name="s2e" revision="4caf9694d3e7ab6503607eb1553102e4499eba31"/>
 
   <!--
     One would normally clone s2e-env first, then run s2e init, which would call this repo script.
